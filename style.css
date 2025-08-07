@@ -1,0 +1,66 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+    text-align: center;
+}
+
+
+header {
+    background-color: #1e90ff;
+    color: white;
+    padding: 30px 10px;
+}
+.logo {
+    width: 80px;
+}
+.producto-img {
+    width: 300px;
+    margin-top: 20px;
+}
+
+
+.descripcion {
+    padding: 20px;
+}
+
+/* Beneficios */
+.beneficios ul {
+    list-style: none;
+    padding: 0;
+}
+.beneficios li {
+    margin: 10px 0;
+}
+
+.testimonios {
+    background-color: #e0f7fa;
+    padding: 20px;
+    font-style: italic;
+}
+
+
+.cta .boton {
+    background-color: #1e90ff;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+    display: inline-block;
+    margin: 20px 0;
+}
+.cta .boton:hover {
+    background-color: #007acc;
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 15px 10px;
+    font-size: 14px;
+}
